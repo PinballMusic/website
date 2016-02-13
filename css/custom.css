@@ -41,6 +41,7 @@ nav .nav-item {
 li:hover {
     border-bottom: 10px solid #04365b;
     margin-bottom: -6px;
+    text-decoration: none;
 }
 nav li:active, li:focus, li:hover {
     border-color: #000;
