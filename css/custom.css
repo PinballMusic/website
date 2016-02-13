@@ -97,6 +97,6 @@ nav li a:active, a:focus, a:hover {
     border-color: #ffffff !important;
     color: #333333 !important;
 }
-footer {
+.footer {
     background-color: #fff;
 }
