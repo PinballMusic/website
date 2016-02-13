@@ -20,6 +20,9 @@ nav {
     position: relative;
     width: 100%;
 }
+a:hover {
+    text-decoration: none;
+}
 nav ul {
     text-align: center;
     padding: 0;
