@@ -162,3 +162,8 @@ nav li a:active, a:focus, a:hover {
   	margin-left: 625px;
   	margin-right: 0px;
 }     
+
+.white {
+    color: white;
+    
+}
