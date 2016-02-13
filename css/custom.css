@@ -98,5 +98,62 @@ nav li a:active, a:focus, a:hover {
     color: #333333 !important;
 }
 .footer {
-    background-color: #fff;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #111;
 }
+
+.leftfooter {
+    float: left;
+}
+  
+.ded {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  	margin-left: 50px;
+  	margin-right: 0px;
+}
+  
+.ded2 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  	margin-left: 50px;
+  	margin-right: 0px;
+}  
+
+.ded3 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  	margin-left: 50px;
+  	margin-right: 0px;
+}  
+      
+.ded4 {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  	margin-left: 50px;
+  	margin-right: 0px;
+}     
+.copyright {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  	margin-left: 625px;
+  	margin-right: 0px;
+}    
