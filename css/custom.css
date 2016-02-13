@@ -20,8 +20,9 @@ li {
 
 }
 li:hover {
+    border-top: 10px solid #04365b;
     border-bottom: 10px solid #04365b;
-    
+    margin-bottom: -6px;
 
 }
 
