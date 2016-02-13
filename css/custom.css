@@ -1,8 +1,8 @@
 /*INDEX IMAGE*/
 body {
-    
+
     background-image: url(../imgs/bg.jpg);
-    
+
 }
 
 .title {
@@ -18,20 +18,27 @@ body {
     text-align: center;
 }
 .btn {
-  -webkit-border-radius: 5;
-  -moz-border-radius: 5;
-  border-radius: 5px;
-  font-family: Arial;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 12px 20px 12px 20px;
-  border: solid #ffffff 3px;
-  text-decoration: none;
+    background: none;
+    display: inline-block;
+    margin-right: 15px;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    transition: all .3s ease;
+    line-height: 1.5;
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    border: 3px solid;
+    border-color: #ffffff;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 10px;
+    min-width: 140px;
 }
-
-.btn:hover {
-  color: white;
-  border: solid aliceblue 3px;
-  text-decoration: none;
+.btn:active, .btn:focus, .btn:hover {
+    background: #ffffff;
+    border-color: #ffffff;
+    color: #333333;
 }
-
