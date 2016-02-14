@@ -182,3 +182,8 @@ nav li a:active, a:focus, a:hover {
     width: 200px;
     opacity: 0;
 }
+
+.rule {
+font-family: "Raleway"; 
+color: #fff;
+}
