@@ -167,3 +167,18 @@ nav li a:active, a:focus, a:hover {
     color: white;
     
 }
+.team {
+    background-color: white;
+    padding: 20px;
+    margin-top: 15%;
+    height: 100%;
+}
+
+.heads {
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 200px;
+    width: 200px;
+    opacity: 0;
+}
