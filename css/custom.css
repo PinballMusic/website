@@ -156,8 +156,8 @@ nav li a:active, a:focus, a:hover {
 .copyright {
     display: block;
     color: white;
-    text-align: center;
-    padding: 14px 16px;
+    text-align: left;
+    padding: 14px 14px;
     text-decoration: none;
   	margin-left: 625px;
   	margin-right: 0px;
