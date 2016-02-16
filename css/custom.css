@@ -41,11 +41,7 @@ nav .nav-item {
     -moz-transition: border-color 200ms linear;
     transition: border-color 200ms linear;
 }
-li:hover {
-    border-bottom: 10px solid #04365b;
-    margin-bottom: -6px;
-    text-decoration: none;
-}
+
 nav li:active, li:focus, li:hover {
     border-color: #000;
 }
@@ -113,7 +109,7 @@ nav li a:active, a:focus, a:hover {
 .leftfooter {
     float: left;
 }
-  
+
 .ded {
     display: block;
     color: white;
@@ -123,7 +119,7 @@ nav li a:active, a:focus, a:hover {
   	margin-left: 50px;
   	margin-right: 0px;
 }
-  
+
 .ded2 {
     display: block;
     color: white;
@@ -132,7 +128,7 @@ nav li a:active, a:focus, a:hover {
     text-decoration: none;
   	margin-left: 50px;
   	margin-right: 0px;
-}  
+}
 
 .ded3 {
     display: block;
@@ -142,8 +138,8 @@ nav li a:active, a:focus, a:hover {
     text-decoration: none;
   	margin-left: 50px;
   	margin-right: 0px;
-}  
-      
+}
+
 .ded4 {
     display: block;
     color: white;
@@ -152,7 +148,7 @@ nav li a:active, a:focus, a:hover {
     text-decoration: none;
   	margin-left: 50px;
   	margin-right: 0px;
-}     
+}
 .copyright {
     display: block;
     color: white;
@@ -161,11 +157,11 @@ nav li a:active, a:focus, a:hover {
     text-decoration: none;
   	margin-left: 625px;
   	margin-right: 0px;
-}     
+}
 
 .white {
     color: white;
-    
+
 }
 .team {
     background-color: white;
@@ -184,6 +180,6 @@ nav li a:active, a:focus, a:hover {
 }
 
 .rule {
-font-family: "Raleway"; 
+font-family: "Raleway";
 color: #fff;
 }
