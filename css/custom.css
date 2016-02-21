@@ -165,20 +165,71 @@ nav li a:active, a:focus, a:hover {
 }
 .team {
     background-color: white;
-    padding: 20px;
+    padding-top: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
     margin-top: 15%;
     height: 100%;
 }
-
-.heads {
-    border-radius: 50px;
-    margin-left: 10px;
-    margin-right: 10px;
-    height: 200px;
-    width: 200px;
-    opacity: 0;
+.team img {
+    -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+    
+}
+.team img:hover {
+    -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
 }
 
+.heads {
+    border-radius: 70px;
+    margin-left: 0px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    height: 130px;
+    width: 130px;
+   
+}
+.modal-text-info {
+    padding-left: 30px;
+    margin-top: 0;
+    vertical-align: top;
+    display: inline-block;
+    width: auto;
+}
+.modal-text-social {
+    padding-left: 30px;
+    margin-top: 0;
+    vertical-align: top;
+    display: inline-block;
+    width: auto;
+}
+.modal-about {
+    padding: 20px;
+    width: auto;
+}
+.administrators {
+    display: inline-block;
+    margin-left: 0px;
+    width: 600px;
+    border-right: 1px solid dimgray;
+    padding: 20px;
+    text-align: left;
+}
+.moderators {
+    display: inline-block;
+    margin-right: 0px;
+    width: 600px;
+    border-left: 1px solid dimgray;
+    padding: 20px;
+    text-align: right;
+    vertical-align: top;
+    
+}
 .rule {
 font-family: "Raleway";
 color: #fff;
